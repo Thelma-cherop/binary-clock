@@ -80,7 +80,7 @@ main (void)
   while (1)
     {
       checkbutton ();
-      uint8_t valuetoshow = 0;
+      uint8_t valuetoshow =0;
       switch (displayMode)
 	{
 	case 0:		//hours
